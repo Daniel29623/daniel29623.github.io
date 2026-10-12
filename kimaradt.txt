@@ -1,6 +1,6 @@
 1:
 2:
 
-A: Darók Zalán
+A:
 B:
-C: Nagy Boldizsár
+C:
